@@ -1,5 +1,7 @@
 # Multi-Signature Wallet 🔏
 
+[![Tests](https://github.com/miguelleonmarti/multi-sig-wallet/actions/workflows/tests.yml/badge.svg)](https://github.com/miguelleonmarti/multi-sig-wallet/actions/workflows/tests.yml)
+
 A multi-signature wallet requires one or more signatures to sign a transaction for processing. These wallets can mitigate the risk of losing your private key or sending a transaction by accident.
 
 ## Build With
